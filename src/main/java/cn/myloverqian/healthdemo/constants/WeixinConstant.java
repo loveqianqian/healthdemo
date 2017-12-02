@@ -20,7 +20,7 @@ public class WeixinConstant {
 
     public static final String SUCCESS  = "SUCCESS";
 
-    public static final String appId = "wxc6a325a114e9dd40";
+    public static final String appId = "";
 
     public static final String mchId = "1490390862";
 
